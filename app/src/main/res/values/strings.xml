@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApp4</string>
+    <string name="title">Do exciting things</string>
+    <string name="enter_url_hint">Enter URL</string>
+    <string name="button_open_url">Open URL</string>
+    <string name="longitude_hint">Long</string>
+    <string name="latitude_hint">Lat</string>
+    <string name="button_show_on_map">Show on map</string>
+    <string name="zoom_hint">Zoom</string>
+    <string name="button_get_person">Get Person</string>
+    <string name="sp_contact_number">SP Contact Number : </string>
+    <string name="sp_display_name">SP Display Name : </string>
+    <string name="number_to_show">Telephone number</string>
+</resources>
